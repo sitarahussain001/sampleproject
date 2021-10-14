@@ -1,0 +1,11 @@
+touch .gitignore
+git config --global user.name sitara
+git config --global user.email sitara
+git init
+git add.
+git commit -m "initial commit"
+git status 
+ssh key generation
+tail <path to id_rsa.pub> # paste this key to github account
+git remote at origin <ssh url.git>
+git remote at master
