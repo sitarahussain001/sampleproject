@@ -9,3 +9,4 @@ ssh key generation
 tail <path to id_rsa.pub> # paste this key to github account
 git remote at origin <ssh url.git>
 git remote at master
+change
